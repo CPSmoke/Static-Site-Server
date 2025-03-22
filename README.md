@@ -28,7 +28,6 @@ Create a Simple HTML File: Create an index.html file in the website directory:
         sudo nano /var/www/your_website/index.html
 Insert the following code:
 
-        html
         <!DOCTYPE html>
         <html lang="en">
         <head>
@@ -48,7 +47,6 @@ Create a CSS File: Create a style.css file for styles:
     sudo vim /var/www/your_website/style.css
 Insert styles as you wish, for example:
 
-    css
     body {
         font-family: Arial, sans-serif;
         background-color: #f4f4f4;
